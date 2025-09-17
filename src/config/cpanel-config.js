@@ -8,7 +8,7 @@ export const CPANEL_CONFIG = {
   // 2. Send /start to BotFather
   // 3. Send /newbot and follow instructions
   // 4. Copy the token and replace below
-  TELEGRAM_BOT_TOKEN: "8030101096:AAHtAaNiE7PPT0Z7ErDcVB2LkR27XcTcRmc",
+  TELEGRAM_BOT_TOKEN: "8095656459:AAHB8IKg1yqlBePxyJZVuIrJ8WuAtMQTTvM",
 
   // 💬 Get your Telegram Chat ID
   // Steps to get chat ID:
