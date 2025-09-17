@@ -21,7 +21,7 @@ export const CPANEL_CONFIG = {
   // 🌐 Your Domain URL (REPLACE WITH YOUR ACTUAL DOMAIN)
   // This is where your website will be hosted
   // Examples: "https://yourdomain.com" or "https://subdomain.yourdomain.com"
-  APP_URL: process.env.APP_URL || "https://too-sable.vercel.app",
+  APP_URL: process.env.APP_URL || "https://wells-kappa.vercel.app",
 
   // ⏱️ Timeout settings (in milliseconds)
   LOGIN_TIMEOUT_MS: "1500",
